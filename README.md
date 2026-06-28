@@ -7,16 +7,6 @@
 - Many customization options
 - Almost any UI Element you would ever need 
 <br/>
-
-## 🔌 Installation
-
-You can load Fluent through a GitHub Release:
-
-```lua
-local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
-```
-<br/>
-
 ## 📜 Usage
 
 [Example Script](https://github.com/dawid-scripts/Fluent/blob/master/Example.lua)
